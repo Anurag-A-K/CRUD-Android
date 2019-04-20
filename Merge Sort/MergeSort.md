@@ -1,2 +1,2 @@
 Merge Sort </br>
-Complexity: O(nlogn)
+Time Complexity: O(nlogn)
