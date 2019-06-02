@@ -1,3 +1,3 @@
 Curated list of algorithms.
 </br>
-Mostly written in Python and C++.
+Mostly written in Python and C++. .
