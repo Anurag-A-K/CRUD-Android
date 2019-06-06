@@ -1,3 +1,3 @@
 Curated list of algorithms.
-</br>.
+</br>
 Mostly written in Python and C++.
