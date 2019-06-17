@@ -1,2 +1,2 @@
-#Sieve of Eratosthenes
+# Sieve of Eratosthenes
 Time Complexity: O(n*log(log(n)))
